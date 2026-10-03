@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of sijad/flarum-ext-persian.** Not for installation: use [Packagist](https://packagist.org/packages/sijad/flarum-ext-persian) or the [upstream repository](https://github.com/persianfla/flarum-ext-persian).
 
-**0** versions archived · Latest: [`v0.0.1`](https://github.com/flarchive/sijad-flarum-ext-persian/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**1** versions archived · Latest: [`v0.0.1`](https://github.com/flarchive/sijad-flarum-ext-persian/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2019-03-30 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/sijad-flarum-ext-persian/tree/archive/v0.0.1) |
 
 Catalog entry: [packages/sijad-flarum-ext-persian.json](https://github.com/flarchive/archive-index/blob/main/packages/sijad-flarum-ext-persian.json)
 
